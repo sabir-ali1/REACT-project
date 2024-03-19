@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(236, 231, 231);
+}
+
+#navbar{
+  position: fixed;
+  z-index: 10000;
+}
+
+@media only screen and (max-width: 600px) {
+  .card {
+    display: inline-flex;
+   
+    width: 10rem;
+  }
+}
+
+#orange{
+  background-color: rgb(212, 88, 43);
+}
+
+#text{
+  color: rgb(212, 88, 43);
+}
+

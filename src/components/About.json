@@ -1,0 +1,18 @@
+[
+    {
+        "month":"1",
+        "actualprice": "550",
+        "discount":"245"
+    },
+    {
+        "month":"3",
+        "actualprice": "1095",
+        "discount":"695"
+    },
+    {
+        "month":"12",
+        "actualprice": "3550",
+        "discount":"2395"
+    } 
+    
+]
